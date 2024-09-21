@@ -23,6 +23,6 @@ var app = express();
 app.use(express.static(__dirname));
 
 var server = app.listen(portno, function () {
-  var port = server.address().port;
-  console.log("Listening at http://localhost:" + port + " exporting the directory " + __dirname);
+    var port = server.address().port;
+    console.log("Listening at http://localhost:" + port + " exporting the directory " + __dirname);
 });

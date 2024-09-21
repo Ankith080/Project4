@@ -1,5 +1,5 @@
 {
-  "name": "project4",
+  "name": "Project4",
   "version": "1.0.0",
   "private": true,
   "description": "Project 4 - Learn ReactJS",
@@ -11,7 +11,7 @@
   },
   "author": "Mendel Rosenblum <mendel@cs.stanford.edu> ",
   "contributors": [
-    "Todd Dobbs <btdobbs@uncc.edu> (https://orcid.org/0000-0001-6711-6962)"
+    "Todd Dobbs <dobbsbt@wofford.edu> (https://orcid.org/0000-0001-6711-6962)"
   ],
   "license": "ISC",
   "dependencies": {
